@@ -20,10 +20,7 @@
     "test": "jest --watch",
     "test:ci": "jest --ci",  
     "dev": "vue-cli-service serve --no-eslint",
-    "build": "vue-cli-service build --no-eslint"  
-
-}  
-  },
+    "build": "vue-cli-service build --no-eslint"  },  
   "dependencies": {
     "@fortaine/fetch-event-source": "^3.0.6",
     "@hello-pangea/dnd": "^16.5.0",
